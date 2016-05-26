@@ -1,0 +1,16 @@
+Improvements file for bettermon.sh script
+Author: Jacob McCrae
+Date Created: July 31, 2014
+
+To view the bettermon.sh script correctly, please zoom out the terminal screen before executing the script so that the font size is smaller. If this is not done
+then everything pushes back up on top of eachother and creates a garbled mess.
+
+Features Added in the bettermon.sh script:
+
+1. Colourized Bar Graphs
+	- implemented as describe in project pdf
+2. Disk Usage Graph
+	- d to toggle on or off
+3. Time Delay between Updates
+	- increase and decrease time delay using +/- keys
+	- does not allow the time delay to be less than or equal to 0 for implementation, resets time delay to 1 if 0
